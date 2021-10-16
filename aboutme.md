@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-#subtitle: Why you'd want to go on a date with me
 ---
 <p align="center">
   <img src=assets/img/chayutwo_fig_MIDS.jpg width="350" title="Chayut Wongkamthong">
