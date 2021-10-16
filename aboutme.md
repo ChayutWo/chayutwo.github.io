@@ -3,10 +3,12 @@ layout: page
 title: About me
 ---
 <p align="center">
-  <img src="https://github.com/ChayutWo/chayutwo.github.io/blob/master/assets/img/chayutwo_fig_MIDS.jpg" width="350" title="Chayut Wongkamthong">
+  <img src="{{ 'assets/img/chayutwo_fig_MIDS.jpg' | relative_url }}" width="350" title="Chayut Wongkamthong"/>
 </p>
 
 Hi! My name is Chayut Wongkamthong. I am from Thailand. My academic and professional background lies in the fields of data science and engineering. I have a strong belief in Bayesian approach, and I have working and research experiences in the following fields:
+
+![](https://github.com/ChayutWo/chayutwo.github.io/blob/master/assets/img/chayutwo_fig_MIDS.jpg)
 
 - Missing data
 - Bayesian nonparametric methods such as Dirichlet process (DP) mixture models
