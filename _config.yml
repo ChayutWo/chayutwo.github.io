@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: Chayut Wongkamthong
+  google-scholar: citations?user=YPhmiNgAAAAJ&hl=en
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -100,16 +100,16 @@ post_search: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#2F4F4F" #"#EAEAEA"
+navbar-text-col: "#FFF5EE" #"#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#2F4F4F" #"#EAEAEA"
+footer-text-col: "#FFF5EE" #"#404040"
+footer-link-col: "#40E0D0" #"#404040"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
