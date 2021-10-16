@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-full-width: true
+%full-width: true
 ---
 
 ### Conference Papers & Peer-reviewed Publications
