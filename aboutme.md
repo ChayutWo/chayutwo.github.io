@@ -3,7 +3,9 @@ layout: page
 title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
-![](https://github.com/ChayutWo/chayutwo.github.io/blob/master/assets/img/chayutwo_fig_MIDS.jpg)
+<p align="center">
+  <img src="https://github.com/ChayutWo/chayutwo.github.io/blob/master/assets/img/chayutwo_fig_MIDS.jpg" width="350" title="Chayut Wongkamthong">
+</p>
 
 Hi! My name is Chayut Wongkamthong. I am from Thailand. My academic and professional background lies in the fields of data science and engineering. I have a strong belief in Bayesian approach, and I have working and research experiences in the following fields:
 
