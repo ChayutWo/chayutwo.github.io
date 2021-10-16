@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+full-width: true
 ---
 
 ### Peer-reviewed & Invited Publications
