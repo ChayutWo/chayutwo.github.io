@@ -9,7 +9,7 @@ title: Publications
 - **Wongkamthong, C.**, Wongpattananukul, K., Suranetinai, C., Vongsinudom, V. & Ekkawong, P. (2018), "[In-House Software Development for Gas Production Optimization: A South East Asia Perspective](https://doi.org/10.2118/192080-MS)", Paper presented at the SPE Asia Pacific Oil and Gas Conference and Exhibition, Brisbane, Australia , October 2018. doi: 10.2118/192080-MS.
 
 ### Manuscripts Under Review
-N/A
+- Venkatasubramanian, S., **Wongkamthong, C.**, Soltani, M., Kang, B., Gogineni, S., Pezeshki, A., Rangaswamy, M. & Tarokh, V. (2021), “Toward Data-Driven STAP Radar”. (Accepted to the 2022 IEEE Radar Conference) 
 
 ### Manuscripts in Preparation
 - **Wongkamthong, C.**, and Akande, O., "Imputing survey responses on political ideology using a hierarchical Dirichlet process mixture of multinomial distributions."
