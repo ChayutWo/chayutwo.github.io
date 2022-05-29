@@ -6,14 +6,15 @@ title: About me
   <img src="{{ 'assets/img/chayutwo_fig_MIDS.jpg' | relative_url }}" width="350" title="Chayut Wongkamthong"/>
 </p>
 
-Hi! My name is Chayut Wongkamthong. I am from Thailand. My academic and professional background lies in the fields of data science and engineering. I have a strong belief in Bayesian approach, and I have working and research experiences in the following fields:
+Hi! My name is Chayut Wongkamthong. I am from Thailand. My academic and professional background lies in the fields of data science and engineering. I have a strong belief in Bayesian approach, and I have business and research experiences in the following fields:
 
 - Missing data
 - Bayesian nonparametric methods such as Dirichlet process (DP) mixture models
 - Radar signal processing
 - Numerical optimization
+- Banking and Finance
 - Petroleum engineering
 
 **Research interest**: Bayesian statistics, Missing data, Statistical machine learning, Numerical optimization
 
-In my free time, I enjoy reading manga (especially in genres such as drama, comedy, and slice of life). I also love playing online games such as DOTA2 with my friends.
+In my free time, I enjoy reading manga (especially drama, comedy, and slice of life). I also love playing online games such as DOTA2 and Magic The Gathering (MTG) arena with my friends.
