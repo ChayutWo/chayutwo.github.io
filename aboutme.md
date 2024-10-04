@@ -17,4 +17,5 @@ Hi! My name is Chayut Wongkamthong. I am from Thailand. My academic and professi
 
 **Research interest**: Bayesian statistics, Missing data, Statistical machine learning, Numerical optimization
 
-In my free time, I enjoy reading manga (especially drama, comedy, and slice of life). I also love playing online games such as DOTA2 and Magic The Gathering (MTG) arena with my friends.
+In my free time, I enjoy reading manga (especially drama, comedy, and slice of life). I'm also a dog dad of my beloved Tweek, a shiba inu.
+Meet him at [ig: tweek.the.shiba](instagram.com/tweek.the.shiba/)
