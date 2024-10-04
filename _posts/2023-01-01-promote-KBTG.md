@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Become a Team Leader of Data Scientists at KBTG
+title: New Chapter as a Team Leader at KBTG!
 #subtitle: Excerpt from Soulshaping by Jeff Brown
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
