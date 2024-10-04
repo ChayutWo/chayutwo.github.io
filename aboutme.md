@@ -18,4 +18,8 @@ Hi! My name is Chayut Wongkamthong. I am from Thailand. My academic and professi
 **Research interest**: Bayesian statistics, Missing data, Statistical machine learning, Numerical optimization
 
 In my free time, I enjoy reading manga (especially drama, comedy, and slice of life). I'm also a dog dad of my beloved Tweek, a shiba inu.
-Meet him at [ig: tweek.the.shiba](instagram.com/tweek.the.shiba/)
+Meet him at [ig: tweek.the.shiba](instagram.com/tweek.the.shiba/).
+
+<p align="center">
+  [<img src="{{ 'assets/img/tweek.jpg' | relative_url }}" width="350" title="Tweek"/>](instagram.com/tweek.the.shiba/)
+</p>
