@@ -15,7 +15,8 @@ author: Chayut Wongkamthong
 
 navbar-links:
   About Me: "aboutme"
-  Research: "publications"
+  Projects: "projects"
+  Research and Publication: "publications"
   CV: "CV/Chayut_Wongkamthong_CV.pdf"
 
 # --- Logo --- #
