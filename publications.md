@@ -25,9 +25,9 @@ title: Research and Publication
   {% endif %}
   <h3 class="mt-0 mb-1">
     {% if publication.url %}
-      <a href="{{ publication.url }}" style="font-size: 1.05rem; line-height: 1.3; font-weight: 700; color: #333; text-decoration: none;">{{ publication.title }}</a>
+      <a href="{{ publication.url }}" style="font-size: 1.2rem; line-height: 1.3; font-weight: 700; color: #333; text-decoration: none;">{{ publication.title }}</a>
     {% else %}
-      <span style="font-size: 1.05rem; line-height: 1.3; font-weight: 700; color: #333; text-decoration: none;">{{ publication.title }}</span>
+      <span style="font-size: 1.2rem; line-height: 1.3; font-weight: 700; color: #333; text-decoration: none;">{{ publication.title }}</span>
     {% endif %}
   </h3>
   <p class="mb-1" style="font-size: 0.95rem;">{{ publication.authors }}</p>
