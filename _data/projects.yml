@@ -1,43 +1,66 @@
-- title: LLM-Guided Adaptive Web Crawling
-  summary: Draft placeholder
-  tags:
-    - TODO
+- title: LLM-Guided Market Research Agent
+  year: "2026–Present"
+  summary: Built an LLM-guided crawler for complex financial product pages where traditional scraping is brittle. The work achieved near-complete promotion URL retrieval, structured product-feature extraction, and supported automated market research workflows.
   methods:
-    - TODO
-  stack:
-    - TODO
-  visibility: TODO
-  status: TODO
+    - Focused web crawling
+    - Dynamic element interaction
+    - Generative AI
+    - OCR
+    - DOM-based link grouping
+    - Information extraction
 
-- title: Credit Card Promotion Recommendation
-  summary: Draft placeholder
-  tags:
-    - TODO
+- title: Credit Card Promotion Recommendation & Trigger Optimization
+  year: "2025–Present"
+  summary: Improved credit card promotion delivery by diagnosing campaign drop-offs and combining spending/location-based triggers with recommendation models. The work increased daily promotion delivery and contributed to an estimated 1.8B THB monthly credit card spending uplift from A/B testing.
   methods:
-    - TODO
-  stack:
-    - TODO
-  visibility: TODO
-  status: TODO
+    - Recommendation systems
+    - Propensity modeling
+    - Trigger-based targeting
+    - Funnel analysis
+    - Causal analysis
 
-- title: Dynamic Pricing Research
-  summary: Draft placeholder
-  tags:
-    - TODO
+- title: Best Time to Call Optimization
+  year: "2023–Present"
+  summary: Led optimization models for debt collection and telesales contact timing using bandit-style decision learning. The collection version delivered more than 10% call-success improvement and over 200 MTHB in annual incremental collected amount.
   methods:
-    - TODO
-  stack:
-    - TODO
-  visibility: TODO
-  status: TODO
+    - Multi-armed bandits
+    - Thompson Sampling
+    - Decision optimization
+    - Contact strategy optimization
 
-- title: Time-Series Capacity Forecasting
-  summary: Draft placeholder
-  tags:
-    - TODO
+- title: Transaction Load Prediction for Infrastructure Planning
+  year: "2024–Present"
+  summary: Built time-series forecasting models for transaction-load planning. The models reduced prediction error by around 18% over the original regression-based approach and helped prevent premature server infrastructure investment in 2025.
   methods:
-    - TODO
-  stack:
-    - TODO
-  visibility: TODO
-  status: TODO
+    - Time-series forecasting
+    - ARIMA and variants
+    - N-BEATS
+    - Intervention analysis
+
+- title: Asset Valuation Using Satellite Imagery
+  year: "2023–2024"
+  summary: Led asset valuation research using satellite imagery to improve land and property valuation coverage. The work contributed to expanded valuation coverage and an IEEE TENCON 2023 conference publication.
+  methods:
+    - Computer vision
+    - Satellite imagery analysis
+    - Similarity learning
+
+- title: Data Science Initiatives for K PLUS and MAKE by KBank
+  year: "2022–Present"
+  summary: Supervised data science initiatives for K PLUS and MAKE by KBank, including lead generation, onboarding analysis, and customer/product analytics. One lead-generation initiative achieved a 5X conversion improvement over a random-targeting baseline.
+  methods:
+    - Customer segmentation
+    - Propensity modeling
+    - Lead generation
+    - Survival analysis
+    - Product analytics
+
+- title: Bayesian Missing Data Modeling
+  year: "2020–2024"
+  summary: Developed and evaluated statistical methods for imputing multivariate ordinal and categorical data with missing values. The work led to a Journal of Survey Statistics and Methodology publication and a follow-up Bayesian nonparametric modeling manuscript.
+  methods:
+    - Bayesian nonparametrics
+    - Dirichlet process mixture models
+    - Multiple imputation
+    - Missing data analysis
+    - Ordinal data modeling
