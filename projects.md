@@ -11,7 +11,7 @@ title: Projects
 
   <div class="mb-0">
     {% for method in project.methods %}
-      <span class="badge badge-secondary mr-1">{{ method }}</span>
+      <span class="badge mr-1" style="background-color: #e8f0fe; color: #000;">{{ method }}</span>
     {% endfor %}
   </div>
 </section>
